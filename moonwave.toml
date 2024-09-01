@@ -1,0 +1,20 @@
+[project]
+title = "Atlas Framework"
+projectName = "Atlas Framework"
+tagline = "A versatile framework for Roblox development"
+
+[home]
+enabled = true
+includeReadme = false
+
+[[home.features]]
+title = "Flexible Framework"
+description = "Atlas offers a highly flexible and modular framework tailored for Roblox development."
+
+[[home.features]]
+title = "Seamless Integration"
+description = "Integrates smoothly with other Roblox modules and tools for an enhanced development experience."
+
+[[home.features]]
+title = "Proven Performance"
+description = "Tested and proven to deliver reliable performance in various game scenarios."
